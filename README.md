@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @oroshi80
 - 👀 I’m interested in fronted & backend Developer
-- 🌱 I’m currently learning: React, Laravel 
 - 💞️ I’m looking to collaborate on improving my web develop skills 
 - 📫 How to reach me <coming soonb>
 

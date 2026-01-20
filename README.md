@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @oroshi80
-- 👀 I’m interested in fronted & backend Developer
+- 👋 Hi, I’m Kelvin
+- 👀 I’m Full Stack Engineer
 - 💞️ I’m looking to collaborate on improving my web develop skills 
-- 📫 How to reach me <coming soonb>
+- 📫 How to reach kelvin.odyseey-studio.co.uk
 
 <!---
 oroshi80/oroshi80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
